@@ -1063,7 +1063,7 @@ async def show_upload_inventory(update: Update, context: ContextTypes.DEFAULT_TY
         f"Send me a JSON file with the inventory data.\n"
         f"Format should be a list of items:\n"
         f"```json\n"
-        f'[{{\n"
+        f'[{{\n'
         f'  "timestamp": "2026-08-17 19:59:53",\n'
         f'  "guestUid": "6755199251",\n'
         f'  "guestPass": "SRK_ejM8tD",\n'
